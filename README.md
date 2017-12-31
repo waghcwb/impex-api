@@ -1,2 +1,5 @@
-# impex-api
-Simple nodejs API for SAP Hybris Impex technology
+<img src="images/logo.svg" width="300">
+
+## Unofficial NodeJS Impex API
+Simple NodeJS API for SAP Hybris Impex technology
+
