@@ -16,10 +16,10 @@ install:
 script:
   - yarn run test
 
-after_success
+after_success:
   - echo "[ Test ] Build success"
 
-after_failure
+after_failure:
   - echo "[ Test ] Build failure"
 
 cache:
