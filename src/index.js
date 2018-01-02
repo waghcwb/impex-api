@@ -1,7 +1,9 @@
-export default class Impex {
+export class Impex {
   constructor() {
     console.info("init");
   }
-}
 
-new Impex();
+  init() {
+    console.info("some awesome work");
+  }
+}
