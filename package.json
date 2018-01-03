@@ -20,7 +20,7 @@
     "url": "https://github.com/waghcwb/impex-api/issues"
   },
   "engines": {
-    "node": "9.2.0"
+    "node": "8.9.4"
   },
   "devDependencies": {
     "babel-cli": "6.26.0",
