@@ -11,6 +11,7 @@
   },
   "repository": "git@github.com:waghcwb/impex-api.git",
   "author": "Wagner Souza <wagh.cwb@gmail.com>",
+  "homepage": "https://github.com/waghcwb/impex-api#readme",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/waghcwb/impex-api/issues"
